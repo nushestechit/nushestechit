@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nushestechit
+- 👋 Hi, I’m Nyasha Ushewokunze
+
 - 👀 I’m interested in Software Development and Cyber Security
 - 🌱 I’m currently learning Software Development using Python Language
 - 💞️ I’m looking to collaborate on .. App development and pretty much everything.
